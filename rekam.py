@@ -1,5 +1,5 @@
 import cv2
-camera = 1
+camera = 0
 iterasi = 0
 
 # membuka webcam

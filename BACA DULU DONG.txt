@@ -1,0 +1,5 @@
+1. Kosongkan folder Dataset (hapus semua file di dalamnya)
+2. Jalankan file rekam.py, masukkan id bebas
+3. Jalankan file training.py
+4. Pada file deteksi.py, sesuaikan nama id
+5. Terakhir, jalankan file deteksi.py

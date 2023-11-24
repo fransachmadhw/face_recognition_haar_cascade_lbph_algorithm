@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 
 # camera = 0 berarti menggunakan web cam bawaan perangkat. Ubah 0 jika menggunakan webcam external
-camera = 1
+camera = 0
 
 # Inisialisasi video capture
 # cv2 -> modul open-cv
